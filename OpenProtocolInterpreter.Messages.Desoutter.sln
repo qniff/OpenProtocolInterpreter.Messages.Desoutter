@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenProtocolInterpreter.Messages.Desoutter", "src\OpenProtocolInterpreter.Messages.Desoutter\OpenProtocolInterpreter.Messages.Desoutter.csproj", "{45789EBE-F9F2-40EE-A789-584D27B7838D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45789EBE-F9F2-40EE-A789-584D27B7838D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45789EBE-F9F2-40EE-A789-584D27B7838D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45789EBE-F9F2-40EE-A789-584D27B7838D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45789EBE-F9F2-40EE-A789-584D27B7838D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {783A6A95-47F2-4F56-96C9-5C6745E7E6DC}
+	EndGlobalSection
+EndGlobal

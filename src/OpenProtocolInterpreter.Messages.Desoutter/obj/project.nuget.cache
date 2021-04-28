@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EkJum6Q57RaSbb4q3fqwEM/wy8AX/eHkVk1q61Xunx9IMHpxxi0+oQC4QGa4RxwjBMLnFQSa9fjoYpw10+Oywg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artleo\\source\\repos\\OpenProtocolInterpreter.Messages.Desoutter\\src\\OpenProtocolInterpreter.Messages.Desoutter\\OpenProtocolInterpreter.Messages.Desoutter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artleo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\artleo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\artleo\\.nuget\\packages\\openprotocolinterpreter\\3.4.0\\openprotocolinterpreter.3.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
